@@ -1,6 +1,7 @@
-# [Tetragram] - [Task Name]
-[Link](https://www.odoo.com/web#id=3364259&cids=3&menu_id=4720&action=4665&active_id=3364224&model=project.task&view_type=form) to task
+# AVPE -  Materiales Castelar: Warehouse shouldn't receive more than ordered quantity
+[Link](https://www.odoo.com/web#id=3364259&cids=3&menu_id=4720&action=4665&active_id=3364224&model=project.task&view_type=form) to task.
 
+There are two ways this task can be completed steps for both the ways are provided.
 ## Steps to complete the dev (Method 1)
 - [X] Create a new Purchase Order and confirm it.
 - [X] Check the new receipt created in the inventory section.
