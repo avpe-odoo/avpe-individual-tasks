@@ -10,6 +10,5 @@
     ],
     "data": ["views/inherit_sale_order.xml"
     ],
-    "demo": [],
-    "application": True,
+    "application": False,
 }
